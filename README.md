@@ -1,1 +1,3 @@
-# Catch-a-duck
+Feather Frenzy 
+
+A game designed to be fun and challenging, with simple controls and cute graphics where in you have to catch as many ducks while avoiding cats. If a cat is collected then it will eat your ducks collected ducks, and you will lose points. Be careful and aware of the surroundings, as your MISTAKES WILL HAVE CONSEQUENCES for the Ducks...
